@@ -1,0 +1,18 @@
+{
+    "id": "62eed7bab5f184095eb75d69",
+    "image": "sampleurl.com",
+    "likes": 217,
+    "link": "",
+    "tags": [
+        "water",
+        "lol"
+    ],
+    "text": "this is the first post",
+    "publishDate": "2022-08-06T21:06:02.719Z",
+    "updatedDate": "2022-08-06T21:06:02.719Z",
+    "owner": {
+        "id": "62eecf21b5f18478ffb75713",
+        "firstName": "kerry",
+        "lastName": "koelpin"
+    }
+}
